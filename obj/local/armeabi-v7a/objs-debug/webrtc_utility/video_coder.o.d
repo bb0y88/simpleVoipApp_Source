@@ -1,0 +1,2 @@
+obj/local/armeabi-v7a/objs-debug/webrtc_utility/video_coder.o: \
+ jni/../../trunk//src/modules/utility/source/video_coder.cc
